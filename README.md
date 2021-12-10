@@ -1,4 +1,5 @@
-[image]:https://www.thetruecolors.org/wp-content/uploads/2021/02/marvel-logo-header-1.jpg
+![alt text](https://www.thetruecolors.org/wp-content/uploads/2021/02/marvel-logo-header-1.jpg)
+
 ## MARVEL CHARACTER QUIZ!! - Come and test who you are most similar to that Marvel character!
 Design a character that exists in the Marvel universe for yourself, and then start the little quiz to see which Marvel character is most similar to you! :speech_balloon:
 
