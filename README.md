@@ -1,5 +1,5 @@
 ## MARVEL CHARACTER QUIZ!! - Come and test who you are most similar to that Marvel character!
-Design a character that exists in the Marvel universe for yourself, and then start the little quiz to see which Marvel character is most similar to you! 
+Design a character that exists in the Marvel universe for yourself, and then start the little quiz to see which Marvel character is most similar to you! :speech_balloon:
 
 
 ### Prerequisites
@@ -17,8 +17,8 @@ Clone the project, <code>cd</code> to your directory/download, and run the game.
 ### Rules
 When the quiz starts, by typing
 
-* <code>yes<code>
-* <code>no<code>
+* _yes_
+* _no_
 
 answer 7 questions and get the Marvel character most like you.
 
@@ -26,7 +26,7 @@ answer 7 questions and get the Marvel character most like you.
 
 Built with [Python 3](https://www.python.org/doc/)
 
-Enjoy!
+Enjoy! :partying_face:
 
 ***
 
