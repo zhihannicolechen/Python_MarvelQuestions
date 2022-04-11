@@ -4,7 +4,7 @@ from emoji import emojize
 
 
 def total(value):
-    # do some logic to see which character you selected
+    # do some test
 
     if value <= 20:
         print("You are most similar with ", vars.characters[2], "!")
